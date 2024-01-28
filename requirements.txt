@@ -1,3 +1,4 @@
+python-dotenv==1.0.1
 Django==4.1.0
 Pillow==9.2.0
 social-auth-app-django==5.4.0
