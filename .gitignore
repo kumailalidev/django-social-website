@@ -1,6 +1,8 @@
 # Project files and folders
 .vscode/
 etcetera/
+*.crt
+*.key
 
 # Django stuff:
 *.log
